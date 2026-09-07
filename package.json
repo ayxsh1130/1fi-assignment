@@ -1,0 +1,16 @@
+{
+  "name": "1fi-marketplace-assignment",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Standalone 1Fi Shop assignment with a native Expo app and dynamic demo API",
+  "scripts": {
+    "api": "node --watch apps/api/server.mjs",
+    "start": "npm --prefix apps/mobile start",
+    "android": "npm --prefix apps/mobile run android",
+    "web": "npm --prefix apps/mobile run web",
+    "test": "node --test tests/*.test.mjs",
+    "check": "node --check apps/api/server.mjs && node --check apps/api/catalog.mjs",
+    "setup": "npm --prefix apps/mobile install"
+  },
+  "engines": { "node": ">=22.13.0" }
+}

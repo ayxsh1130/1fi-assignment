@@ -1,0 +1,218 @@
+[
+  {
+    "id": "iphone-sixteen",
+    "name": "Apple iPhone 16",
+    "brand": "Apple",
+    "category": "Phones",
+    "tag": "A18 chip",
+    "image": "iphone-sixteen.png",
+    "sourceUrl": "https://support.apple.com/en-us/121029",
+    "description": "A 6.1-inch iPhone with the A18 chip, Camera Control and a 48MP Fusion camera. Choose a storage capacity and finish below.",
+    "features": [
+      "6.1-inch Super Retina XDR OLED display",
+      "Apple A18 chip",
+      "48MP Fusion main camera",
+      "USB-C connector"
+    ],
+    "variants": [
+      {
+        "id": "iphone-pink-128",
+        "label": "128 GB · Pink",
+        "color": "#e9accc",
+        "pricePaise": 6490000,
+        "mrpPaise": 6990000,
+        "inStock": true
+      },
+      {
+        "id": "iphone-black-256",
+        "label": "256 GB · Black",
+        "color": "#353847",
+        "pricePaise": 7490000,
+        "mrpPaise": 7990000,
+        "inStock": true
+      },
+      {
+        "id": "iphone-teal-256",
+        "label": "256 GB · Teal",
+        "color": "#9dbfb8",
+        "pricePaise": 7490000,
+        "mrpPaise": 7990000,
+        "inStock": false
+      }
+    ],
+    "priceType": "demo",
+    "stockType": "demo"
+  },
+  {
+    "id": "macbook-air-mfour",
+    "name": "Apple MacBook Air 13″ (M4)",
+    "brand": "Apple",
+    "category": "Laptops",
+    "tag": "M4 performance",
+    "image": "macbook-air-mfour.png",
+    "sourceUrl": "https://support.apple.com/en-us/122209",
+    "description": "The 2025 13-inch MacBook Air pairs the Apple M4 chip with a 13.6-inch Liquid Retina display and a lightweight aluminium enclosure.",
+    "features": [
+      "Apple M4 chip",
+      "13.6-inch Liquid Retina display",
+      "16 GB unified memory",
+      "Two Thunderbolt 4 ports"
+    ],
+    "variants": [
+      {
+        "id": "macbook-silver-512",
+        "label": "16 GB / 512 GB · Silver",
+        "color": "#c7cbd4",
+        "pricePaise": 10990000,
+        "mrpPaise": 11990000,
+        "inStock": true
+      },
+      {
+        "id": "macbook-midnight-1tb",
+        "label": "16 GB / 1 TB · Midnight",
+        "color": "#363d50",
+        "pricePaise": 12990000,
+        "mrpPaise": 13990000,
+        "inStock": true
+      }
+    ],
+    "priceType": "demo",
+    "stockType": "demo"
+  },
+  {
+    "id": "sony-wh-xmfive",
+    "name": "Sony WH-1000XM5",
+    "brand": "Sony",
+    "category": "Audio",
+    "tag": "Noise cancelling",
+    "image": "sony-wh-xmfive.png",
+    "sourceUrl": "https://www.sony.co.in/electronics/headband-headphones/wh-1000xm5",
+    "description": "Wireless over-ear headphones with active noise cancellation, touch controls and multipoint connection for switching between two paired devices.",
+    "features": [
+      "Active noise cancellation",
+      "Up to 30 hours playback with noise cancellation",
+      "30 mm drivers",
+      "Multipoint Bluetooth connection"
+    ],
+    "variants": [
+      {
+        "id": "sony-silver",
+        "label": "Silver",
+        "color": "#d2cec7",
+        "pricePaise": 2499000,
+        "mrpPaise": 2999000,
+        "inStock": true
+      },
+      {
+        "id": "sony-black",
+        "label": "Black",
+        "color": "#373944",
+        "pricePaise": 2499000,
+        "mrpPaise": 2999000,
+        "inStock": true
+      }
+    ],
+    "priceType": "demo",
+    "stockType": "demo"
+  },
+  {
+    "id": "apple-watch-se",
+    "name": "Apple Watch SE (2nd gen)",
+    "brand": "Apple",
+    "category": "Wearables",
+    "tag": "GPS model",
+    "image": "apple-watch-se.png",
+    "sourceUrl": "https://support.apple.com/en-hk/111853",
+    "description": "Apple Watch SE with a Retina OLED display, the S8 chip and built-in GPS. The demo offers two aluminium case sizes.",
+    "features": [
+      "Retina LTPO OLED display",
+      "Apple S8 chip",
+      "Built-in GPS",
+      "Up to 18 hours battery life"
+    ],
+    "variants": [
+      {
+        "id": "watch-starlight-40",
+        "label": "GPS · 40 mm · Starlight",
+        "color": "#ded5c5",
+        "pricePaise": 2490000,
+        "mrpPaise": 2990000,
+        "inStock": true
+      },
+      {
+        "id": "watch-midnight-44",
+        "label": "GPS · 44 mm · Midnight",
+        "color": "#343641",
+        "pricePaise": 2790000,
+        "mrpPaise": 3290000,
+        "inStock": true
+      }
+    ],
+    "priceType": "demo",
+    "stockType": "demo"
+  },
+  {
+    "id": "jbl-flip-six",
+    "name": "JBL Flip 6",
+    "brand": "JBL",
+    "category": "Audio",
+    "tag": "Portable audio",
+    "image": "jbl-flip-six.png",
+    "sourceUrl": "https://global.jbl.com/bluetooth-speakers/FLIP-6-.html",
+    "description": "A portable Bluetooth speaker with a two-way speaker system and dual passive radiators, designed for music on the move.",
+    "features": [
+      "IP67 water and dust resistance",
+      "Up to 12 hours playback",
+      "Bluetooth wireless streaming",
+      "JBL PartyBoost support"
+    ],
+    "variants": [
+      {
+        "id": "jbl-black",
+        "label": "Black",
+        "color": "#343641",
+        "pricePaise": 999900,
+        "mrpPaise": 1299900,
+        "inStock": true
+      }
+    ],
+    "priceType": "demo",
+    "stockType": "demo"
+  },
+  {
+    "id": "ipad-asixteen",
+    "name": "Apple iPad (A16)",
+    "brand": "Apple",
+    "category": "Tablets",
+    "tag": "A16 chip",
+    "image": "ipad-asixteen.png",
+    "sourceUrl": "https://www.apple.com/ipad-11/specs/",
+    "description": "The iPad with A16 chip features an 11-inch Liquid Retina display, Touch ID and a USB-C connector. These demo configurations are Wi-Fi models.",
+    "features": [
+      "11-inch Liquid Retina display",
+      "Apple A16 chip",
+      "Touch ID in the top button",
+      "12MP Wide rear camera"
+    ],
+    "variants": [
+      {
+        "id": "ipad-blue-128",
+        "label": "Wi-Fi · 128 GB · Blue",
+        "color": "#a7c1d9",
+        "pricePaise": 3490000,
+        "mrpPaise": 3790000,
+        "inStock": true
+      },
+      {
+        "id": "ipad-silver-256",
+        "label": "Wi-Fi · 256 GB · Silver",
+        "color": "#c7cbd4",
+        "pricePaise": 4490000,
+        "mrpPaise": 4790000,
+        "inStock": true
+      }
+    ],
+    "priceType": "demo",
+    "stockType": "demo"
+  }
+]

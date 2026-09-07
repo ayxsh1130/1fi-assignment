@@ -1,0 +1,6 @@
+[
+  {"id":"emi-3","months":3,"minPricePaise":0,"recommended":false},
+  {"id":"emi-6","months":6,"minPricePaise":0,"recommended":true},
+  {"id":"emi-9","months":9,"minPricePaise":1500000,"recommended":false},
+  {"id":"emi-12","months":12,"minPricePaise":3000000,"recommended":false}
+]

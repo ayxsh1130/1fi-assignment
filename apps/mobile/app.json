@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "1Fi Marketplace Demo",
+    "slug": "onefi-marketplace-demo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": { "supportsTablet": true, "bundleIdentifier": "com.assignment.onefimarketplace" },
+    "android": { "package": "com.assignment.onefimarketplace", "usesCleartextTraffic": true },
+    "web": { "name": "1Fi Marketplace Demo", "bundler": "metro" }
+  }
+}
