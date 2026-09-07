@@ -37,7 +37,6 @@ Top Brands and Nearby Stores are intentionally blank. Other bottom navigation de
 
 No database, API keys, or paid services are required to run the demo.
 
-
 ## Prerequisites
 
 - Node.js 22.13.0 or newer.
